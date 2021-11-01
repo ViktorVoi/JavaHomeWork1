@@ -8,7 +8,7 @@ public class Bingo {
     public static void main(String[] args) {
 
         Random rnd = new Random() ;
-        int x = rnd.nextInt(100);
+        int x = rnd.nextInt(101);
 
         int i = 0 ; // count of attempts
 
